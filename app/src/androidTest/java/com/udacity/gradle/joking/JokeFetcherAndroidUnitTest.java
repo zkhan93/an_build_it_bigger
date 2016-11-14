@@ -1,10 +1,10 @@
-package com.udacity.gradle.builditbigger;
+package com.udacity.gradle.joking;
 
 import android.support.test.filters.SmallTest;
 import android.support.test.runner.AndroidJUnit4;
 
-import com.udacity.gradle.builditbigger.callbacks.JokeTaskCallback;
-import com.udacity.gradle.builditbigger.tasks.JokeFetchTask;
+import com.udacity.gradle.joking.callbacks.JokeTaskCallback;
+import com.udacity.gradle.joking.tasks.JokeFetchTask;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
